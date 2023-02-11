@@ -9,7 +9,7 @@ precision highp float;
 // The maximum order of any polynomial used to calculate the wavefunction
 #define ORDER 24
 
-// I represent polynomials list of coefficients.
+// I represent polynomials as a list of coefficients.
 // e.g. y(x) = c[0] + c[1]*x + c[2]*x^2 + ... + c[n]*x^n
 struct Polynomial
 {
