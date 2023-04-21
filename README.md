@@ -6,4 +6,4 @@ This is a WIP; eventually I'll publish it to my website with some nice controls 
 
 In the meantime, though, you can view a working copy [here](https://www.shadertoy.com/view/cdSSDw).
 
-![example screenshot](n5_l2_m3.png)
+![example screenshot](./n5_l2_m3.png)
